@@ -1,2 +1,2 @@
-# Dodge.io-BULLET-HELL-
-A group effort bullet hell game using Pygame as the game engine.
+# Dodge.io
+A 2D pixelated bullet-hell arcade game built in Python using Pygame and Object-Oriented Programming (OOP) principles.
